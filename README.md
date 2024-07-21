@@ -1,5 +1,5 @@
 # GameDev
-Work &amp; Progress 2 week GSET game
+Work &amp; Progress 2 week GSET game: Nicholas, Aditya, David, Pranil
 
 Using Unity version **2022.3.10f1**
 
